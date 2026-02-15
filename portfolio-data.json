@@ -1,0 +1,219 @@
+{
+  "settings": {
+    "name": "Siegfried Sorkpor",
+    "title": "SMART INSURANCE PRODUCT MANAGER & Machine Learning Specialist",
+    "location": "United Kingdom",
+    "summary": "Experienced Product Manager and Machine Learning Specialist driving innovation and delivering data-driven solutions in insurance and fintech.",
+    "profileImage": "https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:sesorkpor@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Python",
+          "JIRA",
+          "Trello",
+          "Tensorflow",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "NLTK",
+          "PyTorch",
+          "Tableau",
+          "Excel"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "FEENIX TECHNOLOGIES",
+          "position": "SMART INSURANCE PRODUCT MANAGER",
+          "period": "Sep 2022 - Present",
+          "description": "Led successful development of innovative smart insurance application achieving 90% target completion. Conducted extensive market analysis driving innovation and differentiation. Created comprehensive agile product roadmap delivering features on time and budget. Built strong relationships with external partners ensuring compliance and risk mitigation."
+        },
+        {
+          "company": "Feenix Techlologies",
+          "position": "Machine Learning Specialist",
+          "period": "Mar 2021 - Present",
+          "description": "Improved driver safety, reduced monthly vehicle maintenance costs by 20%, and decreased idle time of vehicles by 30% through engineering a machine learning automated fleet analytics system. Personalized insurance plans for fleet drivers resulting in a 20% reduction in monthly insurance premiums. Reduced company fleet accidents by more than 40% with a machine learning system to identify high-risk drivers. Increased conversions significantly by working with product and marketing teams. Performed impact analyses and analyzed the system for new enhancements/functionalities, implementing ETL changes."
+        },
+        {
+          "company": "SIMBA Consult",
+          "position": "Data Scientist",
+          "period": "Sep 2018 - Feb 2021",
+          "description": "Spearheaded the implementation of cohort analysis that resulted in a 10% sales boost and significant revenue increase. Applied customer segmentation techniques to reduce customer churn by 5%. Provided business insights to client organizations by translating business problems into solvable cases. Led multiple data teams in the design, collection and cleaning of primary and secondary data to enable quality data-driven decision-making."
+        },
+        {
+          "company": "University of Professional Studies",
+          "position": "Research Assistant",
+          "period": "Aug 2017 - Jul 2018",
+          "description": "Planned and implemented students' and faculty members' research activity calendar. Supported students facing difficulties in dissertation projects. Served as secretary to dissertation Viva panel and assistant to the dean of faculty. Provided support for the establishment of new units: a business incubator, and the Centre for Sustainability, Development, and Agribusiness (CENSDA)."
+        },
+        {
+          "company": "International Leadership Foundation",
+          "position": "Data Science Intern",
+          "period": "Apr 2016 – Nov 2016",
+          "description": "Coordinated participant contact-making targeted phone calls to gather key conference participant information. Ensured accurate inputting into key data systems, following data compliance legislation. Spotted data errors and worked with managers to correct reporting information. Recognized for suggesting areas for improving data handling, leading to policy change."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Diabetes Prediction",
+          "description": "Applied six machine learning algorithms (Logistic Regression, Decision tree, K-Nearest Neighbour, Support Vector Machine, Random Forest, and Naive Bayes) to ascertain if a person would have diabetes based on provided features.",
+          "tags": [
+            "Machine Learning",
+            "Python"
+          ],
+          "previewUrl": null,
+          "repoUrl": "https://github.com"
+        },
+        {
+          "title": "Heart Stroke Prediction",
+          "description": "Applied a set of machine learning algorithms to predict heart stroke based on medical data.",
+          "tags": [
+            "Machine Learning",
+            "Python"
+          ],
+          "previewUrl": null,
+          "repoUrl": "https://github.com"
+        },
+        {
+          "title": "Cohort Analysis and Modelling in Online Retail",
+          "description": "Performed a cohort analysis of online retail using data from Kaggle to study customer behavior and identify trends or patterns.",
+          "tags": [
+            "Data Analysis",
+            "Python"
+          ],
+          "previewUrl": null,
+          "repoUrl": "https://github.com"
+        },
+        {
+          "title": "Exploratory Data Analysis (Employee Attrition)",
+          "description": "Examined a dataset to explore and ascertain the various relationships that exist between factors influencing employee attrition.",
+          "tags": [
+            "Data Analysis",
+            "Python"
+          ],
+          "previewUrl": null,
+          "repoUrl": "https://github.com"
+        },
+        {
+          "title": "Predicting Tesla Stock Price",
+          "description": "Developed and evaluated the performance and predictive power of a model trained and tested on the Tesla Stock Price Dataset.",
+          "tags": [
+            "Machine Learning",
+            "Time Series",
+            "Python"
+          ],
+          "previewUrl": null,
+          "repoUrl": "https://github.com"
+        },
+        {
+          "title": "Cohort Analysis and Modeling in Online Retail (Housing Price Prediction)",
+          "description": "Developed and evaluated the performance and predictive power of a model trained and tested on data collected from houses in Boston's suburbs to predict monetary value.",
+          "tags": [
+            "Machine Learning",
+            "Data Analysis",
+            "Python"
+          ],
+          "previewUrl": null,
+          "repoUrl": "https://github.com"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Coventry University",
+          "degree": "Master of Science - MS, Data Science",
+          "period": "Jan 2022 - Jan 2022"
+        },
+        {
+          "institution": "University of Professional Studies, Accra (UPSA)",
+          "degree": "Banking and Finance",
+          "period": "Jan 2013 - Jan 2017"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": []
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "sesorkpor@gmail.com",
+      "phone": "+447496665961",
+      "location": "United Kingdom"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://linkedin.com",
+          "icon": "linkedin"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Siegfried Sorkpor. All rights reserved."
+  }
+}
